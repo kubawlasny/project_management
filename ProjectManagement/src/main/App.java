@@ -6,6 +6,7 @@ public class App {
 		
 		System.out.println("Oto wiersz:");
 		System.out.println("Na górze ró¿e");
+		System.out.println("Na dole lodówka");
 		
 	}
 
